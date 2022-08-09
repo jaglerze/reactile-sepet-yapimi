@@ -1,0 +1,52 @@
+[
+
+    {
+        "id":1,
+        "name":"Zümrüt Yeşili Erkek Oversize Bisiklet Yaka Mickey Mouse Baskılı Lisanslı T-Shirt",
+        "price" :119,
+        "img" : "https://cdn.dsmcdn.com/ty338/product/media/images/20220220/20/54194552/286412332/5/5_org_zoom.jpg",
+        "category": "men"
+    },
+    
+    {
+        "id":2,
+        "name":"Siyah Erkek Slim Fit Polo Yaka Kısa Kollu Polo Yaka T-shirt",
+        "price" :97,
+        "img" :"https://cdn.dsmcdn.com/ty335/product/media/images/20220218/13/53032713/63651096/2/2_org_zoom.jpg",
+        "category": "men"
+    },
+    {
+        "id":3,
+        "name":"Siyah Erkek Relaxed Fit Bisiklet Yaka Kısa Kollu Baskılı T-Shirt",
+        "price" :159,
+        "img" : "https://cdn.dsmcdn.com/ty326/product/media/images/20220207/13/46216127/169031813/5/5_org_zoom.jpg",
+        "category": "men"
+    },
+    {
+        "id":4,
+        "name":"Siyah Düğme Detaylı Denim Şort Etek",
+        "price" :215,
+        "img" : "https://cdn.dsmcdn.com/ty341/product/media/images/20220222/12/56004429/355627627/2/2_org_zoom.jpg",
+        "category": "women"
+    },{
+        "id":5,
+        "name":"Siyah Çıtçıtlı Örme Body",
+        "price" :120,
+        "img" : "https://cdn.dsmcdn.com/ty293/product/media/images/20220110/15/24462696/67124790/2/2_org_zoom.jpg",
+        "category": "women"
+    },
+    {
+        "id":6,
+        "name":"Siyah Düz Pantolon",
+        "price" :210,
+        "img" : "https://cdn.dsmcdn.com/ty184/product/media/images/20210930/10/137642770/244248478/1/1_org_zoom.jpg",
+        "category": "women"
+    },
+    {
+        "id":7,
+        "name":"Beyaz Balon Kollu Gömlek",
+        "price" :125,
+        "img" : "https://cdn.dsmcdn.com/ty330/product/media/images/20220215/9/50441522/61794617/4/4_org_zoom.jpg",
+        "category": "women"
+    }
+]
